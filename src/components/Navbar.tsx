@@ -15,6 +15,7 @@ const navItems: NavItem[] = [
   { name: 'Scholarships', path: '/scholarships' },
   { name: 'Resources', path: '/resources' },
   { name: 'Calculator', path: '/calculator' },
+  { name: 'Diagram', path: '/diagram' },
 ];
 
 export default function Navbar() {
